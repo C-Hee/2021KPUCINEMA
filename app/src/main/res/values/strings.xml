@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">TermProject1</string>
+    <string name="open">oooopen</string>
+    <string name="close">cloooooose</string>
+    <string-array name="movie1string">
+        <item>기생충</item>
+        <item>감독 : 봉준호</item>
+        <item>배우 : 송강호, 이선균, 조여정, 최우식, 박소담</item>
+        <item>장르 : 드라마, 블랙코미디, 스릴러</item>
+        <item>기본 : 19세 이상, 132분, 한국</item>
+        <item>\"폐 끼치고 싶진 않았어요.\"\n
+            전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족.\n
+            장남 기우(최우식)에게 명문대생 친구 민혁(박서준)이 연결시켜준 고액 과외 자리는\n
+            모처럼 싹튼 고정수입의 희망이다.\n
+            온 가족의 도움과 기대 속에 박 사장(이선균) 집으로 향하는 기우.\n
+            글로벌 IT 기업 CEO인 박 사장의 저택에 도착하자\n
+            젊고 아름다운 사모님 연교(조여정)가 기우를 맞이한다.\n
+            그러나 이렇게 시작된 두 가족의 만남 뒤로, 걷잡을 수 없는 사건이 기다리고 있었으니…</item>
+        <item>https://www.youtube.com/watch?v=SEUXfv87Wpk</item>
+    </string-array>
+    <string-array name="movie2string">
+        <item>나이브스 아웃</item>
+        <item>감독 : 라이언 존슨</item>
+        <item>배우 : 다니엘 크레이그, 크리스 에반스, 아나 데 아르마스</item>
+        <item>장르 : 미스터리, 추리, 스릴러</item>
+        <item>기본 : 12세 이상, 130분, 미국</item>
+        <item>베스트셀러 미스터리 작가가 85세 생일의 다음 날 숨진 채 가정부에게 발견된다.\n
+            죽어있는 미스터리 작가를 본 가정부 과연 미스터리 사건을 맞은 경찰과 함께 탐정 브누아 블랑이 파견되는데…</item>
+        <item>https://www.youtube.com/watch?v=kYHXGPadHP4</item>
+    </string-array>
+    <string-array name="movie3string">
+        <item>말모이</item>
+        <item>감독 : 엄유나</item>
+        <item>배우 : 유해진, 윤계상, 김홍파, 우현</item>
+        <item>장르 : 드라마</item>
+        <item>기본 : 12세 이상, 135분, 한국</item>
+        <item>까막눈 판수, 우리말에 눈뜨다! vs 조선어학회 대표 정환, ‘우리’의 소중함에 눈뜨다!\n
+            1940년대 우리말이 점점 사라져가고 있는 경성.\n
+            극장에서 해고된 후 아들 학비 때문에 가방을 훔치다 실패한 판수.\n
+            하필 면접 보러 간 조선어학회 대표가 가방 주인 정환이다.\n
+            사전 만드는데 전과자에다 까막눈이라니!\n
+            그러나 판수를 반기는 회원들에 밀려 정환은 읽고 쓰기를 떼는 조건으로 그를 받아들인다.\n
+            돈도 아닌 말을 대체 왜 모으나 싶었던 판수는 난생 처음 글을 읽으며 우리말의 소중함에 눈뜨고,\n
+            정환 또한 전국의 말을 모으는 ‘말모이’에 힘을 보태는 판수를 통해 ‘우리’의 소중함에 눈뜬다.\n
+            얼마 남지 않은 시간, 바짝 조여오는 일제의 감시를 피해 ‘말모이’를 끝내야 하는데…\n
+            우리말이 금지된 시대, 말과 마음이 모여 사전이 되다.</item>
+        <item>https://www.youtube.com/watch?v=lHjy3OK2eqk</item>
+    </string-array>
+    <string-array name="movie4string">
+        <item>반도</item>
+        <item>감독 : 연상호</item>
+        <item>배우 : 강동원, 이정현, 권해효</item>
+        <item>장르 : 액션, 스릴러, 좀비 아포칼립스</item>
+        <item>기본 : 15세 이상, 115분, 한국</item>
+        <item>부산행 4년 후, 최후의 안전지대였던 부산마저 함락된 이후 폐허가 된 반도에서 벌어지는 이야기.\n
+            전대미문의 재난 그 후 4년\n
+            폐허의 땅으로 다시 들어간다!</item>
+        <item>https://www.youtube.com/watch?v=h2Q5ZFAXhKk</item>
+    </string-array>
+    <string-array name="movie5string">
+        <item>#살아있다</item>
+        <item>감독 : 조일형</item>
+        <item>배우 : 유아인, 박신혜</item>
+        <item>장르 : 스릴러, 드라마, 좀비 아포칼립스</item>
+        <item>기본 : 15세 이상, 98분, 한국</item>
+        <item>원인불명 증세의 사람들의 공격에 통제 불능에 빠진 도시.\n
+            영문도 모른 채 잠에서 깬 ‘준우’(유아인)는 아무도 없는 집에 혼자 고립된 것을 알게 된다.\n
+            데이터, 와이파이, 문자, 전화 모든 것이 끊긴 채 고립된 상황.\n
+            연락이 두절된 가족에 이어 최소한의 식량마저 바닥이 나자 더 이상 버티기 힘들어진 ‘준우’.\n
+            하지만 그 순간 건너편 아파트에서 누군가 시그널을 보내온다.\n
+            또 다른 생존자 ‘유빈’(박신혜)이 아직 살아있음을 알게 된 ‘준우’는\n
+            함께 살아남기 위한 방법을 찾아 나서는데…!\n
+            꼭 살아남아야 한다.</item>
+        <item>https://www.youtube.com/watch?v=ifyPEnKreJI</item>
+    </string-array>
+    <string-array name="movie6string">
+        <item>신비한 동물들과 그린델왈드의 범죄</item>
+        <item>감독 : 데이비드 예이츠</item>
+        <item>배우 : 에디 레드메인, 캐서린 워터스턴</item>
+        <item>장르 : 판타지, 모험</item>
+        <item>기본 : 12세 이상, 134분, 미국</item>
+        <item>마법 세계의 운명을 건 전쟁이 시작된다!\n
+            \'뉴트 스캐맨더\'(에디 레드메인)의 활약으로\n
+            강력한 어둠의 마법사 \'겔러트 그린델왈드\'(조니 뎁)가 미합중국 마법의회 MACUSA에 붙잡히지만,\n
+            이내 그가 장담했던 대로 탈출해 추종자를 모으기 시작한다.\n
+            순혈 마법사의 세력을 모아 마법을 사용하지 않는 사람들을 지배하려는 그린델왈드의 야욕을 막기 위해\n
+            \'알버스 덤블도어\'(주드 로)는 제자였던 뉴트에게 도움을 요청한다. 마법사 사회는 점점 더 분열되어 가고,\n
+            뉴트는 앞날의 위험을 알지 못한 채 제안을 승낙하는데…\n</item>
+        <item>https://www.youtube.com/watch?v=vjaj4tGFlzM</item>
+    </string-array>
+    <string-array name="movie7string">
+        <item>어벤져스 - 엔드게임</item>
+        <item>감독 : 앤서니 루소, 조 루소</item>
+        <item>배우 : 로버트 다우니 주니어, 크리스 에반스, 스칼렛 요한슨</item>
+        <item>장르 : 슈퍼히어로, SF</item>
+        <item>기본 : 12세 이상, 181분, 미국</item>
+        <item>인피니티 워 이후 절반만 살아남은 지구, 마지막 희망이 된 어벤져스.\n
+            먼저 떠난 그들을 위해 모든 것을 걸었다!\n
+            위대한 어벤져스, 운명을 바꿀 최후의 복수가 펼쳐진다!</item>
+        <item>https://www.youtube.com/watch?v=Ko2NWhXI9e8</item>
+    </string-array>
+    <string-array name="movie8string">
+        <item>어스(Us)</item>
+        <item>감독 : 조던 필</item>
+        <item>배우 : 루피타 뇽오, 윈스턴 듀크</item>
+        <item>장르 : 공포, 스릴러</item>
+        <item>기본 : 15세 이상, 116분, 미국</item>
+        <item>현대를 배경으로 애들레이드와 게이브 윌슨(루피타 뇽오와 윈스턴 듀크)은\n
+            아이들을 데리고 캘리포니아 북부에 있는 애들레이드의 고향 해변가로 여름 휴가를 떠난다.\n
+            다음날 합류한 타일러 가족(엘리자베스 모스와 팀 하이데커)과 함께 해변에서 하루를 보내지만,\n
+            애들레이드는 과거에 겪은 트라우마 증상이 심해지며 나쁜 일이 일어날 것이라는 공포에 시달린다.\n
+            밤이 되고 윌슨은 차도에 조용히 서있는 네명의 손을 맞잡은 뭔가를 보게 되는데…</item>
+        <item>https://www.youtube.com/watch?v=enm2sSSgE-Q</item>
+    </string-array>
+    <string-array name="movie9string">
+        <item>엑시트</item>
+        <item>감독 : 이상근</item>
+        <item>배우 : 조정석, 임윤아, 고두심, 박인환</item>
+        <item>장르 : 액션, 코미디, 재난</item>
+        <item>기본 : 12세 이상, 103분, 한국</item>
+        <item>짠내 폭발 청년백수, 전대미문의 진짜 재난을 만나다!\n
+            대학교 산악 동아리 에이스 출신이지만\n
+            졸업 후 몇 년째 취업 실패로 눈칫밥만 먹는 용남은\n
+            온 가족이 참석한 어머니의 칠순 잔치에서\n
+            연회장 직원으로 취업한 동아리 후배 의주를 만난다\n
+            어색한 재회도 잠시, 칠순 잔치가 무르익던 중\n
+            의문의 연기가 빌딩에서 피어 오르며\n
+            피할 새도 없이 순식간에 도심 전체는 유독가스로 뒤덮여 일대혼란에 휩싸이게 된다.\n
+            용남과 의주는 산악 동아리 시절 쌓아 뒀던 모든 체력과 스킬을 동원해\n
+            탈출을 향한 기지를 발휘하기 시작하는데…</item>
+        <item>https://www.youtube.com/watch?v=li4jOV5j7SI</item>
+    </string-array>
+    <string-array name="movie10string">
+        <item>조커</item>
+        <item>감독 : 토드 필립스</item>
+        <item>배우 : 호아킨 피닉스, 로버트 드 니로</item>
+        <item>장르 : 스릴러, 드라마</item>
+        <item>기본 : 15세 이상, 123분, 미국</item>
+        <item>고담시의 광대 아서 플렉은 코미디언을 꿈꾸는 남자.\n
+            하지만 모두가 미쳐가는 코미디 같은 세상에서맨 정신으로는\n
+            그가 설 자리가 없음을 깨닫게 되는데…\n
+            이제껏 본 적 없는 진짜 ‘조커’를 만나라!</item>
+        <item>https://www.youtube.com/watch?v=x60mB0zXZ38</item>
+    </string-array>
+    <string-array name="movie11string">
+        <item>테넷</item>
+        <item>감독 : 크리스토퍼 놀란</item>
+        <item>배우 : 존 데이비드 워싱턴, 로버트 패틴슨, 엘리자베스 데비키</item>
+        <item>장르 : 드라마, 블랙코미디, 스릴러</item>
+        <item>기본 : 12세 이상, 150분, 미국</item>
+        <item>
+            당신에게 줄 건 단 한 단어 ‘테넷’\n
+            이해하지 말고 느껴라!\n
+            시간의 흐름을 뒤집는 인버전을 통해 현재와 미래를 오가며 세상을 파괴하려는 사토르(케네스 브래너)를\n
+            막기 위해 투입된 작전의 주도자(존 데이비드 워싱턴). 인버전에 대한 정보를 가진 닐(로버트 패틴슨)과\n
+            미술품 감정사이자 사토르에 대한 복수심이 가득한 그의 아내 캣(엘리자베스 데비키)과\n
+            협력해 미래의 공격에 맞서 제3차 세계대전을 막아야 한다!</item>
+        <item>https://www.youtube.com/watch?v=IW_khaePCBE</item>
+    </string-array>
+</resources>
